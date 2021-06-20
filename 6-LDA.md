@@ -1,6 +1,8 @@
 ## LDA
 
-**LDA 即 Linear Discriminant Analysis 线性判别分析，寻找映射方向w将数据进行预处理映射到新的空间，之后再用其它分类算法（SVM, KNN）。**
+**LDA 即 Linear Discriminant Analysis 线性判别分析**
+
+**有监督，寻找映射方向w将数据进行预处理映射到新的空间，之后再用其它分类算法（SVM, KNN）。**
 
 ### Review
 

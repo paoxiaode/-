@@ -60,7 +60,7 @@ EM（Expectation-Maximization算法），和K-Means类似。
 
 <img src="imag/图片45.png" alt="图片40"  />
 
-* E-step：算后验概率
+* E-step：算assignment后验概率
 * M-step：根据后验概率更新参数
 
 
